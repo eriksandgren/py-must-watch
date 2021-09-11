@@ -65,7 +65,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * ~~Kenneth Reitz: **Python for Humans** (PyCon US)~~
     * Video: [youtube](http://www.youtube.com/watch?v=QpkHt1hDYTo) [00:31:43]/[pyvideo](http://pyvideo.org/video/1785/python-for-humans-1)
     * [Slides](https://speakerdeck.com/pyconslides/python-for-humans)
-* Ned Batchelder: **Loop like a native: while, for, iterators, generators** (PyCon US)
+* ~~Ned Batchelder: **Loop like a native: while, for, iterators, generators** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/76/)
     * Video: [youtube](https://www.youtube.com/watch?v=EnSu9hHGq5o) [00:29:15]/[pyvideo](http://pyvideo.org/video/1758/loop-like-a-native-while-for-iterators-genera)
     * [Slides with text](http://nedbatchelder.com/text/iter.html)/[Just the slides](http://nedbatchelder.com/text/iter/iter.html)
