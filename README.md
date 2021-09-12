@@ -73,7 +73,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/125/)
     * Video: [youtube](https://www.youtube.com/watch?v=HTLu2DFOdTg) [00:45:56]/[pyvideo](http://pyvideo.org/video/1779/pythons-class-development-toolkit)
     * [Slides](https://speakerdeck.com/pyconslides/pythons-class-development-toolkit-by-raymond-hettinger)
-* Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python** (PyCon US)
+* ~~Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/126/)
     * Video: [youtube](https://www.youtube.com/watch?v=OSGv2VnC0go) [00:48:51]/[pyvideo](http://pyvideo.org/video/1780/transforming-code-into-beautiful-idiomatic-python)
     * [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
