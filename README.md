@@ -69,7 +69,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/76/)
     * Video: [youtube](https://www.youtube.com/watch?v=EnSu9hHGq5o) [00:29:15]/[pyvideo](http://pyvideo.org/video/1758/loop-like-a-native-while-for-iterators-genera)
     * [Slides with text](http://nedbatchelder.com/text/iter.html)/[Just the slides](http://nedbatchelder.com/text/iter/iter.html)
-* Raymond Hettinger: **Python's Class Development Toolkit** (PyCon US)
+* ~~Raymond Hettinger: **Python's Class Development Toolkit** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/125/)
     * Video: [youtube](https://www.youtube.com/watch?v=HTLu2DFOdTg) [00:45:56]/[pyvideo](http://pyvideo.org/video/1779/pythons-class-development-toolkit)
     * [Slides](https://speakerdeck.com/pyconslides/pythons-class-development-toolkit-by-raymond-hettinger)
