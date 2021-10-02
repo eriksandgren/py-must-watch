@@ -79,42 +79,42 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [Slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
 
 ## 2014
-* Alex Gaynor: **Fast Python, Slow Python** (PyCon US)
+* ~~Alex Gaynor: **Fast Python, Slow Python** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/197/)
     * Video: [youtube](https://www.youtube.com/watch?v=7eeEf_rAJds) [00:36:11]/[pyvideo](http://pyvideo.org/video/2627/fast-python-slow-python)
     * [Slides](https://speakerdeck.com/pycon2014/fast-python-slow-python-by-alex-gaynor)
-* A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It?** (PyCon US)
+* ~~A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It?** (PyCon US)~~
    * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/284/)
    * Video: [youtube](https://www.youtube.com/watch?v=9WV7juNmyE8) [00:46:50]/[pyvideo](http://pyvideo.org/video/2565/what-is-async-how-does-it-work-and-when-should)
    * [Slides](https://speakerdeck.com/pycon2014/what-is-async-how-does-it-work-and-when-should-i-use-it-by-a-jesse-jiryu-davis)
-* Benjamin Peterson: **Garbage Collection in Python** (PyCon US)
+* ~~Benjamin Peterson: **Garbage Collection in Python** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/153/)
     * Video: [youtube](https://www.youtube.com/watch?v=iHVs_HkjdmI) [00:26:57]/[pyvideo](http://pyvideo.org/video/2633/garbage-collection-in-python)
     * [Slides](https://speakerdeck.com/pycon2014/garbage-collection-in-python-by-benjamin-peterson)
-* Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond** (PyCon US)
+* ~~Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/211/)
     * Video: [youtube](https://www.youtube.com/watch?v=fYlnfvKVDoM) [00:37:41]/[pyvideo](http://pyvideo.org/video/2571/all-your-ducks-in-a-row-data-structures-in-the-s)
     * [Slides](http://rhodesmill.org/brandon/slides/2014-04-pycon/data-structures/)
-* Brandon Rhodes: **The Clean Architecture** (PyOhio)
+* ~~Brandon Rhodes: **The Clean Architecture** (PyOhio)~~
     * Video: [youtube](https://www.youtube.com/watch?v=DJtef410XaM) [00:49:54]/[pyvideo](http://pyvideo.org/video/2840/the-clean-architecture-in-python)
     * [Slides](http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/)
-* Christine Spang: **Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell** (PyCon US)
+* ~~Christine Spang: **Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell** (PyCon US)~~
     * This talk might be [obsolete](https://bugs.python.org/issue35537) as of Python 3.8
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/190/)
     * Video: [youtube](https://www.youtube.com/watch?v=YAO7PUZvVPw) [00:35:13]/[pyvideo](http://pyvideo.org/video/2640/subprocess-to-ffi-memory-performance-and-why-y)
     * [Slides](https://speakerdeck.com/pycon2014/subprocess-to-ffi-by-christine-spang)
-* David Beazley: **Generators: The Final Frontier** (PyCon US)
+* ~~David Beazley: **Generators: The Final Frontier** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/70/)
     * Video: [youtube](https://www.youtube.com/watch?v=5-qadlG7tWo) [02:55:36]/[pyvideo](http://pyvideo.org/video/2575/generators-the-final-frontier)
     * [Slides](http://fr.slideshare.net/dabeaz/generators-the-final-frontier)
-* Erik Rose: **Designing Poetic APIs** (PyCon US)
+* ~~Erik Rose: **Designing Poetic APIs** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/207/)
     * Video: [youtube](http://www.youtube.com/watch?v=JQYnFyG7A8c) [00:48:08]/[pyvideo](http://pyvideo.org/video/2647/designing-poetic-apis)/[vod](http://vod.com.ng/en/video/JQYnFyG7A8c/Erik-Rose-Designing-Poetic-APIs-PyCon-2014)
     * [Slides](https://speakerdeck.com/pycon2014/designing-poetic-apis-by-erik-rose)
-* Guido van Rossum: **Tulip: Async I/O for Python 3** (PyCon US)
+* ~~Guido van Rossum: **Tulip: Async I/O for Python 3** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/284/)
     * Video: [youtube](https://www.youtube.com/watch?v=1coLC-MUCJc) [01:10:38]
-* Mike Müller: **Faster Python Programs through Optimization** (PyCon US)
+* ~~Mike Müller: **Faster Python Programs through Optimization** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/71/)
     * Video: [youtube](https://www.youtube.com/watch?v=wNBJDpyRm8w) [02:59:54]/[pyvideo](http://pyvideo.org/video/607/faster-python-programs-through-optimization)
     * [Slides](http://fr.slideshare.net/PyData/faster-python-programs-through-optimization-mike-muller)
