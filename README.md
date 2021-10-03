@@ -118,11 +118,11 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/71/)
     * Video: [youtube](https://www.youtube.com/watch?v=wNBJDpyRm8w) [02:59:54]/[pyvideo](http://pyvideo.org/video/607/faster-python-programs-through-optimization)
     * [Slides](http://fr.slideshare.net/PyData/faster-python-programs-through-optimization-mike-muller)
-* Ned Batchelder: **Getting Started Testing** (PyCon US)
+* ~~Ned Batchelder: **Getting Started Testing** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/150/)
     * Video: [youtube](https://www.youtube.com/watch?v=FxSsnHeWQBY) [00:42:44]/[pyvideo](http://pyvideo.org/video/2674/getting-started-testing)
     * [Slides](https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder)
-* S Anand: **Faster data processing in Python** (PyCon IN)
+* ~~S Anand: **Faster data processing in Python** (PyCon IN)~~
     * [PyCon presentation](http://in.pycon.org/funnel/2014/165-faster-data-processing-in-python)
     * Video: [youtube](https://www.youtube.com/watch?v=ylBslijJexw) [00:55:08]
     * [iPython Notebook](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)

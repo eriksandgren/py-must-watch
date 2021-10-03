@@ -8,7 +8,7 @@ def duration_from_line(line):
     s = int(line[7:9])
     return h * (60**2) + m * 60 + s
 
-with open("Readme.md", "r") as f:
+with open("README.md", "r") as f:
     readme = f.read()
 durations = re.findall("\[\d{2}:\d{2}:\d{2}\]", readme)
 seconds_tot = sum((duration_from_line(l) for l in durations))
